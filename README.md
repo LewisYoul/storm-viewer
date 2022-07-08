@@ -1,6 +1,9 @@
 # Storm Viewer
 
-The [first project](https://www.hackingwithswift.com/100/16) from [100 days of Swift](https://www.hackingwithswift.com/100). A basic iOS application that allows you to view a list of photo names stored on the device, click on them and view the full photo. 
+The [first project](https://www.hackingwithswift.com/100/16) from [100 days of Swift](https://www.hackingwithswift.com/100). A basic iOS application that allows you to view a list of photo names stored on the device, click on them and view the full photo.
+
+![table view](/table-view.png)
+![detail view](/detail-view.png)
 
 ## Running Locally
 
